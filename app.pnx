@@ -1,0 +1,3 @@
+melde("Hallo Welt von Vercel!")
+persistent cloud_counter = 0
+baue_button("PhoenixScript aktivieren")
