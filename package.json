@@ -1,11 +1,11 @@
 {
-  "name": "mein-phoenix-projekt",
+  "name": "phoenixmagie-dev-website",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "phoenix app.pnx"
+    "build": "node ./node_modules/phoenixscript/src/index.js app.pnx"
   },
   "dependencies": {
-    "phoenixscript": "git+https://github.com/phoenixmagie/phoenixscript.git"
+    "phoenixscript": "git+https://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@github.com/phoenixmagie/phoenixscript.git"
   }
 }
