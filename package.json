@@ -1,11 +1,11 @@
 {
-  "name": "phoenixmagie-dev-website",
+  "name": "immortal-site",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "node ./node_modules/phoenixscript/src/index.js app.pnx"
+    "build": "immortal-compile app.immortal js/app.js"
   },
   "dependencies": {
-    "phoenixscript": "latest"
+    "immortal-lang": "git+https://github.com/phoenixmagie/immortal-lang.git"
   }
 }
