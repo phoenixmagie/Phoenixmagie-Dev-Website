@@ -1,2 +1,2 @@
-val name = "Unsterblicher Entwickler";
-render("Willkommen, " + name + "! Der Compiler läuft.");
+val name = "Phönix";
+render("Willkommen im unsterblichen System!");
